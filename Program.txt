@@ -1,2 +1,3 @@
 Initial commit
 Super cool feature
+Super cool feature bugfix
