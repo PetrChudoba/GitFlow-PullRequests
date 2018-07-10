@@ -1,3 +1,5 @@
 Initial commit
+Next direct commit to develop branch
+Another developer commit
 Super cool feature
 Super cool feature bugfix
